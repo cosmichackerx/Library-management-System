@@ -1,7 +1,7 @@
 # Library-management-System
 Design and implement a Library Management System that keeps track of books, users, and borrowing history using different Java data structures
 
-`
+```
 📌 Program Statement:
 Design and implement a Library Management System that keeps track of books, users, and borrowing history using different Java data structures:
 
@@ -42,4 +42,4 @@ Use Collections.max() and Collections.min() to find the book with the highest an
 Use Collections.frequency() to check how many times a particular book was borrowed.
 
 Use Collections.shuffle() to create a “Random Book Suggestion” feature for users.
-`
+```
